@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elías Huerta</h1>
 <h3 align="center">Barcelona</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js** & **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
