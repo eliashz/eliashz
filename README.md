@@ -1,4 +1,4 @@
-![EHZ-high](https://user-images.githubusercontent.com/96485085/171654850-3605b1c0-98d7-436e-acce-a6fcc8d9d54d.gif)
+          ![EHZ-high](https://user-images.githubusercontent.com/96485085/171654850-3605b1c0-98d7-436e-acce-a6fcc8d9d54d.gif)
 
 <h1 align="center">Hi 👋, I'm Elías H.</h1>
 <h3 align="center">A Canary Islander living in Barcelona</h3>
