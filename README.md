@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elías H.</h1>
 <h3 align="center">A Canary Islander living in Barcelona</h3>
 
-- 🌱 I’m currently learning **Node.js and React**
+- 🌱 I’m currently learning **Node.js** and **React**
 
-- 💬 Ask me about **Tool and Mark Lanegan**
+- 💬 Ask me about **Tool** and **Mark Lanegan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
