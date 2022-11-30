@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elías H.</h1>
+<h1 align="center">I'm Elías H.</h1>
 <h3 align="center">A Canary Islander living in Barcelona</h3>
 
 - 🌱 I’m currently learning **Node.js** and **React**
