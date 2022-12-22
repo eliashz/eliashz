@@ -15,4 +15,3 @@ Node.js and React developer based in Barcelona.
 ---
 [![](https://visitcount.itsvg.in/api?id=eliashz&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
