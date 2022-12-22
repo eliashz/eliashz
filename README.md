@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧔🏻‍♂️ About Me:
 Node.js and React developer based in Barcelona.
 
 
