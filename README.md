@@ -1,5 +1,6 @@
 # 🧔🏻‍♂️ About Me:
 Node.js and React developer based in Barcelona.  
+   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eliashuerta) 
 
 # ⌨️ Tech Stack:
