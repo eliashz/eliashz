@@ -11,5 +11,5 @@ Node.js and React developer based in Barcelona.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eliashz&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=eliashz&icon=0&color=10)](https://visitcount.itsvg.in)
+
 
