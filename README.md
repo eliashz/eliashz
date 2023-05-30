@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=300&size=25&pause=1000&color=023047&center=true&repeat=false&width=435&lines=el%C3%ADashuertaz%C3%BAmel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=300&size=25&pause=1000&color=E4E3D3&center=true&repeat=false&width=435&lines=el%C3%ADashuertaz%C3%BAmel)](https://git.io/typing-svg)
 
 ## 🧔🏻‍♂️ About Me:
 Node.js and React developer based in Barcelona.  
