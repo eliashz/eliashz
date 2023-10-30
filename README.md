@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=300&size=25&pause=1000&color=E4E3D3&center=true&repeat=false&width=435&lines=el%C3%ADashuertaz%C3%BAmel)](https://git.io/typing-svg)
 
 ## 🧔🏻‍♂️ About Me:
-Python, Node.js and React developer based in Barcelona. At the moment, learning Next.js and Tailwind CSS.
+Python, Node.js and React developer based in Barcelona.
    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eliashuerta) 
 
