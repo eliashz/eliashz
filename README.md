@@ -5,6 +5,9 @@ Python, Node.js and React developer based in Barcelona. At the moment, learning 
    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eliashuerta) 
 
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="eliashuerta" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/eliashuerta?trk=profile-badge">Elías Huerta</a></div>
+              
+
 ## ⌨️ Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
